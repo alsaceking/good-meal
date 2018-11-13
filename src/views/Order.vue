@@ -21,7 +21,7 @@ export default {
   data() {
     return {
       // 单前选择的日期索引
-      currentIndex: 5,
+      currentIndex: 2,
       // 日期的分页
       paging: 7,
       // 日期数组
