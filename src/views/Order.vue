@@ -57,7 +57,7 @@ export default {
       let arr = []
       for (let i = 0; i < 14; i++) {
         let state = 0
-        if ( i === this.currentIndex) {
+        if (i === this.currentIndex) {
           state = 1
         }
         arr.push({
